@@ -7,4 +7,5 @@ This app make a GET request to `https://app.splatoon2.nintendo.net/home` every h
 1. Run ```iksm_refresher.exe```
 
 ### Install as a service
-Run ```iksm_refresher.exe install``` in the privileged prompt.
+Run ```iksm_refresher.exe install``` in the privileged prompt.  
+(```iksm_refresher.exe uninstall``` to uninstall.)
